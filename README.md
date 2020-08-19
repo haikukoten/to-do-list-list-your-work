@@ -15,6 +15,8 @@ HNS Domain - todo.eevr/
 **Description -**  
 This is a minimal notes app that doesn't use any account rather it can be used in your browser locally. Data is stored in your web browser localStorage. The notes app also has Dark / Light mode
 
+-------------------------------------------------------------------------
+
 **Submission for [Build On Skynet And Handshake](https://gitcoin.co/issue/NebulousLabs/Skynet-Hive/5/100023460)**  
 
 HNS Domain - bin.eevr/
