@@ -3,5 +3,5 @@ This is a do-list for submission to [Build An Application With Handshake Hackath
 
 # Access it here
 
-HNS Domain - todo.eevr/
+HNS Domain - todo.eevr/  
 [Skynet Link](https://siasky.net/LAAqKnuhiM3UU2-gh7vNUeEwRyKBGrCNaN1XbEJSe_Ev9A/)
