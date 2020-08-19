@@ -1,5 +1,5 @@
 # To-do App : List your Work
-This is a do-list for submission to [Build An Application With Handshake Hackathon](https://gitcoin.co/issue/namebasehq/api-documentation/10/100023462). The app uses localStorage to store list. 
+This is a do-list app for submission to [Build An Application With Handshake Hackathon](https://gitcoin.co/issue/namebasehq/api-documentation/10/100023462). The app uses localStorage to store list. 
 
 # Access it here
 
